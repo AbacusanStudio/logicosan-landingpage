@@ -1,0 +1,25 @@
+{
+  "name": "logicosan-landingpage",
+  "version": "0.0.1",
+  "description": "[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbacusanStudio/logicosan-landingpage.git"
+  },
+  "author": "",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/AbacusanStudio/logicosan-landingpage/issues"
+  },
+  "homepage": "https://github.com/AbacusanStudio/logicosan-landingpage"
+}
