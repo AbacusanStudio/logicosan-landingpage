@@ -51,11 +51,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: @brand-primary;
+    border-color: white;
 }
 
 hr.star-light:after {
-    background-color: @brand-primary;
+    background-color: @brand-success;
     color: white;
 }
 
@@ -66,6 +66,12 @@ hr.star-primary {
 hr.star-primary:after {
     background-color: @brand-white;
     color: @brand-primary;
+}
+
+hr.star-primary-white {
+    &:after {
+        background-color: white;
+    }
 }
 
 .img-centered {
@@ -182,6 +188,7 @@ section.success {
 }
 
 #portfolio {
+    background-color: @brand-white;
     .portfolio-item {
         margin: 0 0 15px;
         right: 0;
